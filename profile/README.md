@@ -6,7 +6,7 @@
 
 ## Overview
 
-The **Structural Analysis and Desgin (SAND) ** is an internal engineering library for beam analysis, frame design, and load computation. 
+The **Structural Analysis and Desgin (SAND)** is an internal engineering library for beam analysis, frame design, and load computation. 
 This library supports Python 3.10+ and integrates with in-house FEM solvers and design review pipelines.
 
 ---
